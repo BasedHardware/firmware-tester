@@ -35,6 +35,9 @@
     },
     "plugins": [
       "react-native-ble-plx"
-    ]
+    ],
+    "experiments": {
+      "baseUrl": "/firmware-tester"
+    }
   }
 }

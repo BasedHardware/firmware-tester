@@ -4,7 +4,7 @@ This repo contains a web app written in React Native (that can eventually be por
 
 # Getting Started
 
-Repo is deployed at [https://tester.basedhardware.com/](https://tester.basedhardware.com/)
+Repo is deployed at [https://basedhardware.github.io/firmware-tester/](https://basedhardware.github.io/firmware-tester/)
 
 # Development
 
