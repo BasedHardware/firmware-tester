@@ -26,7 +26,7 @@ export default function App() {
 
         // Open device
         log('Opening device...');
-        let device = lastDevice.current || await openDevice({ name: ['Super', 'Bubble', 'Friend', 'Compass'] });
+        let device = lastDevice.current || await openDevice();
         if (device === null) {
             log('Failed to open device');
             return;
